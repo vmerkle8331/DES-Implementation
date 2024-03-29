@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES Implementation - Merkle", "DES Implementation - Merkle\DES Implementation - Merkle.csproj", "{9DDB9C23-79C8-4130-8C67-6A6BE5CCCA9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DDB9C23-79C8-4130-8C67-6A6BE5CCCA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDB9C23-79C8-4130-8C67-6A6BE5CCCA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDB9C23-79C8-4130-8C67-6A6BE5CCCA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDB9C23-79C8-4130-8C67-6A6BE5CCCA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D799A7E-BF8D-4230-92C6-0D59C9EA1AFE}
+	EndGlobalSection
+EndGlobal

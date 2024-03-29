@@ -1,0 +1,14 @@
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\bin\Debug\netcoreapp3.1\DES Implementation - Merkle.exe
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\bin\Debug\netcoreapp3.1\DES Implementation - Merkle.deps.json
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\bin\Debug\netcoreapp3.1\DES Implementation - Merkle.runtimeconfig.json
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\bin\Debug\netcoreapp3.1\DES Implementation - Merkle.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\bin\Debug\netcoreapp3.1\DES Implementation - Merkle.dll
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\bin\Debug\netcoreapp3.1\DES Implementation - Merkle.pdb
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\obj\Debug\netcoreapp3.1\DES Implementation - Merkle.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\obj\Debug\netcoreapp3.1\DES Implementation - Merkle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\obj\Debug\netcoreapp3.1\DES Implementation - Merkle.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\obj\Debug\netcoreapp3.1\DES Implementation - Merkle.AssemblyInfo.cs
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\obj\Debug\netcoreapp3.1\DES Implementation - Merkle.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\obj\Debug\netcoreapp3.1\DES Implementation - Merkle.dll
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\obj\Debug\netcoreapp3.1\DES Implementation - Merkle.pdb
+C:\Users\vickm\source\repos\DES Implementation - Merkle\DES Implementation - Merkle\obj\Debug\netcoreapp3.1\DES Implementation - Merkle.genruntimeconfig.cache
